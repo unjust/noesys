@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2008-03-30T04:33:26.304138Z"
+   url="https://noesys.googlecode.com/svn/trunk/English.lproj/main.nib"
+   last-author="unjust"
+   kind="dir"
+   uuid="d323d7e6-9f49-0410-b21e-9d5bff9bfab3"
+   repos="https://noesys.googlecode.com/svn"
+   revision="7"/>
+<entry
+   committed-rev="2"
+   name="info.nib"
+   text-time="2008-03-31T04:57:21.000000Z"
+   committed-date="2008-03-30T04:33:26.304138Z"
+   checksum="e8946ca6376a5b41572eade4986eabec"
+   last-author="unjust"
+   kind="file"
+   prop-time="2008-03-31T04:38:49.000000Z"/>
+<entry
+   committed-rev="2"
+   name="classes.nib"
+   text-time="2008-03-31T04:57:21.000000Z"
+   committed-date="2008-03-30T04:33:26.304138Z"
+   checksum="d4f654c0244466c22e6192e76ec71210"
+   last-author="unjust"
+   kind="file"
+   prop-time="2008-03-31T04:38:49.000000Z"/>
+<entry
+   committed-rev="2"
+   name="objects.xib"
+   text-time="2008-03-31T04:57:21.000000Z"
+   committed-date="2008-03-30T04:33:26.304138Z"
+   checksum="c03485700753de4d69858f14cea2272b"
+   last-author="unjust"
+   kind="file"
+   prop-time="2008-03-31T04:38:49.000000Z"/>
+</wc-entries>

@@ -1,0 +1,947 @@
+// !$*UTF8*$!
+{
+	0867D6ABFE840B52C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {751, 483}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRect = "{{0, 0}, {751, 483}}";
+		};
+	};
+	20286C28FDCF999611CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CA13E7830D79D171009BF2BF /* noesys */;
+		activeTarget = 8D0C4E890486CD37000505A6 /* noesys */;
+		addToTargets = (
+			8D0C4E890486CD37000505A6 /* noesys */,
+		);
+		breakpoints = (
+			CA9557CA0D84DFF3000AB4A8 /* app.cpp:18 */,
+			CA9557D80D84E003000AB4A8 /* app.cpp:18 */,
+			CA9557FD0D84E3B3000AB4A8 /* app.cpp:18 */,
+			CA9558360D84E586000AB4A8 /* lissajous.cpp:121 */,
+			CA12156D0D9DF79C00459191 /* app.cpp:315 */,
+			CA1215780D9DF7F700459191 /* eq.cpp:55 */,
+			CA0EFB790D9E13C100CC88CC /* app.cpp:179 */,
+			CA24477A0D9F3D88000BC920 /* analysis_view.cpp:67 */,
+			CA8B46310DA089F500BABCEA /* app.cpp:344 */,
+			CA18B5E20DA08C3300D85A36 /* app.cpp:18 */,
+			CA40AB880F563FC200E0ACF5 /* ring.cpp:13 */,
+			CA9EC4BB0F5E43FB00F088EB /* ring.cpp:13 */,
+			CAEEAC620F68C4E700937DCA /* audio.cpp:172 */,
+			CAB57C1C0F87EC18002A6878 /* audio.cpp:25 */,
+			CAB57D150F880D36002A6878 /* app.cpp:238 */,
+			CA13A4170FE5BA03009BCE40 /*  malloc_error_break */,
+			CA13A44B0FE5BC2A009BCE40 /* audio.cpp:241 */,
+			CA13A4510FE5BCAF009BCE40 /* audio.cpp:232 */,
+			CA13A4570FE5BCEE009BCE40 /* audio.cpp:238 */,
+			CA13A4640FE5BD0C009BCE40 /* audio.cpp:230 */,
+		);
+		codeSenseManager = CA13E7870D79D18F009BF2BF /* Code sense */;
+		executables = (
+			CA13E7830D79D171009BF2BF /* noesys */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					369,
+					20,
+					269,
+					269,
+					197,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					497,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					535,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					457,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 266658958;
+			PBXWorkspaceStateSaveDate = 266658957;
+		};
+		perUserProjectItems = {
+			CA13A4200FE5BA83009BCE40 /* PBXTextBookmark */ = CA13A4200FE5BA83009BCE40 /* PBXTextBookmark */;
+			CA13A4210FE5BA83009BCE40 /* PBXTextBookmark */ = CA13A4210FE5BA83009BCE40 /* PBXTextBookmark */;
+			CA13A4710FE5BE83009BCE40 /* PBXTextBookmark */ = CA13A4710FE5BE83009BCE40 /* PBXTextBookmark */;
+			CA13A47E0FE5C37C009BCE40 /* PBXTextBookmark */ = CA13A47E0FE5C37C009BCE40 /* PBXTextBookmark */;
+			CA6CF1480F959207002B9FC5 /* PBXTextBookmark */ = CA6CF1480F959207002B9FC5 /* PBXTextBookmark */;
+			CA6CF14B0F9599FC002B9FC5 /* PlistBookmark */ = CA6CF14B0F9599FC002B9FC5 /* PlistBookmark */;
+			CA6CF14C0F9599FC002B9FC5 /* PBXTextBookmark */ = CA6CF14C0F9599FC002B9FC5 /* PBXTextBookmark */;
+			CA6CF14F0F9599FC002B9FC5 /* PBXTextBookmark */ = CA6CF14F0F9599FC002B9FC5 /* PBXTextBookmark */;
+			CAB57C9D0F87EFA8002A6878 /* PlistBookmark */ = CAB57C9D0F87EFA8002A6878 /* PlistBookmark */;
+			CAB57CFA0F8808D5002A6878 /* PBXTextBookmark */ = CAB57CFA0F8808D5002A6878 /* PBXTextBookmark */;
+			CADBE4DB0F68ACC100D0710D /* PBXTextBookmark */ = CADBE4DB0F68ACC100D0710D /* PBXTextBookmark */;
+			CADBE4DD0F68ACC100D0710D /* PBXTextBookmark */ = CADBE4DD0F68ACC100D0710D /* PBXTextBookmark */;
+			CAE119260F69F30900A003F3 /* PBXTextBookmark */ = CAE119260F69F30900A003F3 /* PBXTextBookmark */;
+			CAE119290F69F34400A003F3 /* PBXTextBookmark */ = CAE119290F69F34400A003F3 /* PBXTextBookmark */;
+			CAE119590F6A107C00A003F3 /* PBXTextBookmark */ = CAE119590F6A107C00A003F3 /* PBXTextBookmark */;
+			CAE1195D0F6A107C00A003F3 /* PBXTextBookmark */ = CAE1195D0F6A107C00A003F3 /* PBXTextBookmark */;
+			CAE119630F6A107C00A003F3 /* PBXTextBookmark */ = CAE119630F6A107C00A003F3 /* PBXTextBookmark */;
+			CAE1197B0F6A12F700A003F3 /* PBXTextBookmark */ = CAE1197B0F6A12F700A003F3 /* PBXTextBookmark */;
+			CAEEAC300F68C2E500937DCA /* PBXTextBookmark */ = CAEEAC300F68C2E500937DCA /* PBXTextBookmark */;
+		};
+		sourceControlManager = CA13E7860D79D18F009BF2BF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32DBCF6D0370B57F00C91783 /* noesys_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 47}, {1027, 831}}";
+		};
+	};
+	5048395809E3302200765E4B /* TCarbonEvent.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {895, 4172}}";
+			sepNavSelRange = "{2682, 85}";
+			sepNavVisRect = "{{0, 680}, {895, 110}}";
+		};
+	};
+	5048396D09E3307300765E4B /* noesysProj.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {751, 483}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {751, 483}}";
+		};
+	};
+	5048396E09E3307300765E4B /* noesysTarget.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {751, 483}}";
+			sepNavSelRange = "{168, 0}";
+			sepNavVisRect = "{{0, 0}, {751, 483}}";
+		};
+	};
+	8D0C4E890486CD37000505A6 /* noesys */ = {
+		activeExec = 0;
+		executables = (
+			CA13E7830D79D171009BF2BF /* noesys */,
+		);
+	};
+	8D0C4E960486CD37000505A6 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {751, 483}}";
+			sepNavSelRange = "{416, 0}";
+			sepNavVisRect = "{{0, 0}, {751, 483}}";
+		};
+	};
+	CA07DD710D7A060600D7F10F /* main.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {938, 589}}";
+		};
+	};
+	CA07DD720D7A060600D7F10F /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 593}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 323}";
+			sepNavVisRect = "{{0, 0}, {938, 589}}";
+		};
+	};
+	CA0EFB790D9E13C100CC88CC /* app.cpp:179 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::lissajousDraw()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 179;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.154289;
+		state = 2;
+	};
+	CA1214D00D9DEBF700459191 /* eq.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {938, 589}}";
+			sepNavSelRange = "{139, 0}";
+			sepNavVisRect = "{{0, 0}, {938, 589}}";
+			sepNavWindowFrame = "{{15, 47}, {1027, 831}}";
+		};
+	};
+	CA1214D10D9DEBF700459191 /* eq.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1036, 1106}}";
+			sepNavSelRange = "{1589, 0}";
+			sepNavVisRect = "{{0, 745}, {1036, 361}}";
+			sepNavWindowFrame = "{{15, 47}, {1027, 831}}";
+		};
+	};
+	CA12156D0D9DF79C00459191 /* app.cpp:315 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::analysisDraw()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 315;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.148039;
+		state = 2;
+	};
+	CA1215780D9DF7F700459191 /* eq.cpp:55 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA1214D10D9DEBF700459191 /* eq.cpp */;
+		functionName = "eq::runEq()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 55;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.151133;
+		state = 2;
+	};
+	CA13A4170FE5BA03009BCE40 /*  malloc_error_break */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = "";
+		modificationTime = 266714491.811773;
+		state = 1;
+		symbolName = " malloc_error_break";
+	};
+	CA13A4200FE5BA83009BCE40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA07DD710D7A060600D7F10F /* main.h */;
+		name = "main.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	CA13A4210FE5BA83009BCE40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA07DD710D7A060600D7F10F /* main.h */;
+		name = "main.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 281;
+		vrLoc = 0;
+	};
+	CA13A44B0FE5BC2A009BCE40 /* audio.cpp:241 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		functionName = "Audio::initWindowData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 241;
+		location = "noesys Debug";
+		modificationTime = 266714419.948912;
+		state = 2;
+	};
+	CA13A4510FE5BCAF009BCE40 /* audio.cpp:232 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		functionName = "Audio::initWindowData()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 232;
+		location = "noesys Debug";
+		modificationTime = 266714417.924408;
+		state = 2;
+	};
+	CA13A4570FE5BCEE009BCE40 /* audio.cpp:238 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		functionName = "Audio::initWindowData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 238;
+		location = "noesys Debug";
+		modificationTime = 266714418.964926;
+		state = 2;
+	};
+	CA13A4640FE5BD0C009BCE40 /* audio.cpp:230 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		functionName = "Audio::initWindowData()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 230;
+		location = "noesys Debug";
+		modificationTime = 266714497.293006;
+		state = 2;
+	};
+	CA13A4710FE5BE83009BCE40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "warning: unused variable 'C'";
+		fRef = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		rLen = 1;
+		rLoc = 560;
+		rType = 1;
+	};
+	CA13A47E0FE5C37C009BCE40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		name = "audio.cpp: 556";
+		rLen = 0;
+		rLoc = 17704;
+		rType = 0;
+		vrLen = 1123;
+		vrLoc = 16894;
+	};
+	CA13E7830D79D171009BF2BF /* noesys */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = noesys;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CA13E7860D79D18F009BF2BF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 1;
+		scmConfiguration = {
+			SubversionToolPath = /usr/local/bin/svn;
+			repositoryName = "noesys@googlecode.com";
+		};
+		scmType = scm.subversion;
+	};
+	CA13E7870D79D18F009BF2BF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CA13E79A0D79D2E7009BF2BF /* sndfile.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {620, 7770}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {520, 491}}";
+		};
+	};
+	CA13E79B0D79D2FF009BF2BF /* portaudio.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {758, 15876}}";
+			sepNavSelRange = "{26401, 0}";
+			sepNavVisRect = "{{0, 10122}, {751, 705}}";
+		};
+	};
+	CA13E79E0D79D323009BF2BF /* app.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {968, 1106}}";
+			sepNavSelRange = "{436, 30}";
+			sepNavVisRange = "{0, 932}";
+			sepNavVisRect = "{{0, 0}, {936, 898}}";
+			sepNavWindowFrame = "{{277, 41}, {1027, 831}}";
+		};
+	};
+	CA13E79F0D79D323009BF2BF /* app.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 6524}}";
+			sepNavSelRange = "{1734, 0}";
+			sepNavVisRange = "{1629, 828}";
+			sepNavVisRect = "{{0, 6049}, {1036, 475}}";
+			sepNavWindowFrame = "{{56, 47}, {1027, 831}}";
+		};
+	};
+	CA13E7A10D79D332009BF2BF /* glut_basic.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {897, 513}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 584}";
+			sepNavVisRect = "{{0, 0}, {1036, 475}}";
+		};
+	};
+	CA13E7A20D79D332009BF2BF /* glut_basic.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {897, 2268}}";
+			sepNavSelRange = "{1007, 0}";
+			sepNavVisRange = "{518, 870}";
+			sepNavVisRect = "{{0, 339}, {752, 316}}";
+			sepNavWindowFrame = "{{222, 47}, {1027, 831}}";
+		};
+	};
+	CA18B5E20DA08C3300D85A36 /* app.cpp:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::myInit()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		location = "noesys Release";
+		modificationTime = 266714386.165613;
+		state = 2;
+	};
+	CA2213A50D9F0817005E6482 /* analysis_view.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 672}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{142, 685}";
+			sepNavVisRect = "{{0, 121}, {1036, 361}}";
+			sepNavWindowFrame = "{{15, 47}, {1027, 831}}";
+		};
+	};
+	CA2213A60D9F0817005E6482 /* analysis_view.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {982, 1932}}";
+			sepNavSelRange = "{1537, 0}";
+			sepNavVisRect = "{{0, 544}, {982, 702}}";
+			sepNavWindowFrame = "{{516, 47}, {1027, 831}}";
+		};
+	};
+	CA22E3EE0E97EC1800F0075D /* ring.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {897, 2478}}";
+			sepNavSelRange = "{1486, 0}";
+			sepNavVisRange = "{1113, 840}";
+			sepNavVisRect = "{{0, 1390}, {936, 898}}";
+			sepNavWindowFrame = "{{149, 4}, {1151, 874}}";
+		};
+	};
+	CA24477A0D9F3D88000BC920 /* analysis_view.cpp:67 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA2213A60D9F0817005E6482 /* analysis_view.cpp */;
+		functionName = "AnalysisView::setCurrentWindowValues()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 67;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.1576;
+		state = 2;
+	};
+	CA40AB880F563FC200E0ACF5 /* ring.cpp:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA22E3EE0E97EC1800F0075D /* ring.cpp */;
+		functionName = "ring::runRing(int iswitcher, float iacceleration)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = "noesys Release";
+		modificationTime = 266714386.169259;
+		state = 2;
+	};
+	CA6CF1480F959207002B9FC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		name = "app.cpp: 91";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 1629;
+	};
+	CA6CF14B0F9599FC002B9FC5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D0C4E960486CD37000505A6 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/ivy/Programming/sound_vis/NoesysProjects/noesys/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	CA6CF14C0F9599FC002B9FC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA07DD720D7A060600D7F10F /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 323;
+		vrLoc = 0;
+	};
+	CA6CF14F0F9599FC002B9FC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA07DD720D7A060600D7F10F /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 323;
+		vrLoc = 0;
+	};
+	CA86BD7D0DDD3DBB000EAF20 /* ring.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1268, 854}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 1034}";
+			sepNavVisRect = "{{0, 60}, {939, 748}}";
+			sepNavWindowFrame = "{{92, 4}, {1327, 874}}";
+		};
+	};
+	CA8B46310DA089F500BABCEA /* app.cpp:344 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::myKey()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 344;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.162131;
+		state = 2;
+	};
+	CA9557CA0D84DFF3000AB4A8 /* app.cpp:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::initAnimation()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.132722;
+		state = 2;
+	};
+	CA9557D80D84E003000AB4A8 /* app.cpp:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::initAnimation()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.137408;
+		state = 2;
+	};
+	CA9557FD0D84E3B3000AB4A8 /* app.cpp:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::initAnimation()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.140783;
+		state = 2;
+	};
+	CA9558360D84E586000AB4A8 /* lissajous.cpp:121 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB3A1030D7A2352006B1F1C /* lissajous.cpp */;
+		functionName = "lissajous::runLissajous()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 121;
+		location = "fromScratch Debug";
+		modificationTime = 266714386.144738;
+		state = 2;
+	};
+	CA9EC4BB0F5E43FB00F088EB /* ring.cpp:13 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA22E3EE0E97EC1800F0075D /* ring.cpp */;
+		functionName = "ring::ring(int iident, float ix, float iy, float iz, float iR, float iG, float iB, float iA, float ifinalRadius)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 13;
+		location = "noesys Release";
+		modificationTime = 266714386.172915;
+		state = 2;
+	};
+	CAB39F9D0D7A09C1006B1F1C /* audio.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1137, 1918}}";
+			sepNavSelRange = "{871, 0}";
+			sepNavVisRange = "{751, 836}";
+			sepNavVisRect = "{{0, 448}, {939, 748}}";
+			sepNavWindowFrame = "{{114, 9}, {1196, 843}}";
+		};
+	};
+	CAB39F9E0D7A09C1006B1F1C /* audio.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 9644}}";
+			sepNavSelRange = "{17704, 0}";
+			sepNavVisRange = "{16894, 1203}";
+			sepNavVisRect = "{{0, 2636}, {939, 514}}";
+			sepNavWindowFrame = "{{171, 47}, {1027, 831}}";
+		};
+	};
+	CAB3A1030D7A2352006B1F1C /* lissajous.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {963, 2548}}";
+			sepNavSelRange = "{531, 0}";
+			sepNavVisRange = "{258, 451}";
+			sepNavVisRect = "{{0, 1643}, {751, 705}}";
+			sepNavWindowFrame = "{{38, 21}, {747, 831}}";
+		};
+	};
+	CAB3A1040D7A2352006B1F1C /* lissajous.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {990, 919}}";
+			sepNavSelRange = "{389, 0}";
+			sepNavVisRange = "{0, 1151}";
+			sepNavVisRect = "{{0, 0}, {751, 598}}";
+			sepNavWindowFrame = "{{38, 9}, {1196, 843}}";
+		};
+	};
+	CAB57C1C0F87EC18002A6878 /* audio.cpp:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		functionName = "Audio::initSND()";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 25;
+		location = "noesys Debug";
+		modificationTime = 266714390.368295;
+		state = 1;
+	};
+	CAB57C9D0F87EFA8002A6878 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D0C4E960486CD37000505A6 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/ivy/Programming/sound_vis/NoesysProjects/noesys/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	CAB57CFA0F8808D5002A6878 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		name = "audio.cpp: 379";
+		rLen = 0;
+		rLoc = 12126;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	CAB57D150F880D36002A6878 /* app.cpp:238 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		functionName = "App::lissajousDraw()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 238;
+		location = "noesys Debug";
+		modificationTime = 266714386.184118;
+		state = 2;
+	};
+	CADBE4DB0F68ACC100D0710D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA13E7A20D79D332009BF2BF /* glut_basic.cpp */;
+		name = "glut_basic.cpp: 48";
+		rLen = 0;
+		rLoc = 1007;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 518;
+	};
+	CADBE4DD0F68ACC100D0710D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA13E7A10D79D332009BF2BF /* glut_basic.h */;
+		name = "glut_basic.h: 14";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 0;
+	};
+	CAE119260F69F30900A003F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA22E3EE0E97EC1800F0075D /* ring.cpp */;
+		name = "ring.cpp: 84";
+		rLen = 0;
+		rLoc = 1486;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 1159;
+	};
+	CAE119290F69F34400A003F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA22E3EE0E97EC1800F0075D /* ring.cpp */;
+		name = "ring.cpp: 85";
+		rLen = 0;
+		rLoc = 1486;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 1113;
+	};
+	CAE119590F6A107C00A003F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB3A1040D7A2352006B1F1C /* lissajous.h */;
+		name = "lissajous.h: 25";
+		rLen = 0;
+		rLoc = 389;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 0;
+	};
+	CAE1195D0F6A107C00A003F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB3A1030D7A2352006B1F1C /* lissajous.cpp */;
+		name = "lissajous.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 0;
+	};
+	CAE119630F6A107C00A003F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB3A1040D7A2352006B1F1C /* lissajous.h */;
+		name = "lissajous.h: 25";
+		rLen = 0;
+		rLoc = 389;
+		rType = 0;
+		vrLen = 1151;
+		vrLoc = 0;
+	};
+	CAE1197B0F6A12F700A003F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CAB3A1030D7A2352006B1F1C /* lissajous.cpp */;
+		name = "lissajous.cpp: 29";
+		rLen = 0;
+		rLoc = 440;
+		rType = 0;
+		vrLen = 1125;
+		vrLoc = 0;
+	};
+	CAEEAC300F68C2E500937DCA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CA13E79F0D79D323009BF2BF /* app.cpp */;
+		name = "app.cpp: 70";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 1038;
+	};
+	CAEEAC620F68C4E700937DCA /* audio.cpp:172 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = CAB39F9E0D7A09C1006B1F1C /* audio.cpp */;
+		functionName = "Audio::initWindowData()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 172;
+		location = "noesys Debug";
+		modificationTime = 266714386.176488;
+		state = 2;
+	};
+}

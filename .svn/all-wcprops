@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/11/trunk
+END
+ring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/10/trunk/ring.cpp
+END
+audio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/10/trunk/audio.cpp
+END
+ring.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/10/trunk/ring.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/6/trunk/Info.plist
+END
+noesysTarget.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/noesysTarget.xcconfig
+END
+eq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/4/trunk/eq.cpp
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/10/trunk/audio.h
+END
+eq.h
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/4/trunk/eq.h
+END
+glut_basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10/trunk/glut_basic.cpp
+END
+lissajous.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/lissajous.cpp
+END
+analysis_view.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/analysis_view.cpp
+END
+ringorig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10/trunk/ringorig.cpp
+END
+app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/10/trunk/app.cpp
+END
+lissajous.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/lissajous.h
+END
+glut_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10/trunk/glut_basic.h
+END
+analysis_view.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/analysis_view.h
+END
+ring_unused.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/10/trunk/ring_unused.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/main.cpp
+END
+app.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/10/trunk/app.h
+END
+noesys_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/6/trunk/noesys_Prefix.pch
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/main.h
+END
+noesysProj.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/noesysProj.xcconfig
+END

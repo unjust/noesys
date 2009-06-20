@@ -1,0 +1,42 @@
+8
+
+dir
+11
+https://noesys.googlecode.com/svn/trunk/Resources/snd
+https://noesys.googlecode.com/svn
+
+
+
+2009-04-15T04:27:34.464769Z
+10
+unjust
+
+
+svn:special svn:externals svn:needs-lock
+
+snd_part.wav
+file
+
+
+
+
+2008-05-17T17:40:16.000000Z
+74a62fcb7c3363f09986c17123d17967
+2009-04-15T04:27:34.464769Z
+10
+unjust
+has-props
+
+theMix.wav
+file
+
+
+
+
+2006-05-20T02:54:54.000000Z
+e416e0606886282fdea648a2fa7e9bf1
+2009-04-15T04:27:34.464769Z
+10
+unjust
+has-props
+
